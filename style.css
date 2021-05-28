@@ -15,11 +15,11 @@ h1, h2, .center {
   text-align: center;
 }
 a {
-  color: blue;
+  color: lightblue;
 }
 a:hover {
-  color: lightblue;
-  background-color: blue;
+  color: yellow;
+  background-color: darkblue;
 }
 a:active {
   color: black;

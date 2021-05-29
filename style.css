@@ -28,3 +28,12 @@ a:active {
 dt {
   padding: 0.5em;
 }
+.hover:hover .show {
+  display: none;
+}
+.hover .hide {
+  display: none;
+}
+.hover:hover .hide {
+  display: inline;
+}
